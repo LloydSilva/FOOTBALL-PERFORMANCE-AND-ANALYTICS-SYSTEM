@@ -1,0 +1,6 @@
+pandas
+graphviz
+matplotlib
+pymongo
+mysql-connector-python
+
